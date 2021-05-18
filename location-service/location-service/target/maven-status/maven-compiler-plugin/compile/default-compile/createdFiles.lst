@@ -1,0 +1,5 @@
+com\sliit\mtit\microservice\locationservice\SpringFoxConfig.class
+com\sliit\mtit\microservice\locationservice\controller\LocationController.class
+com\sliit\mtit\microservice\locationservice\dto\LocationResponse.class
+com\sliit\mtit\microservice\locationservice\dto\LocationRequest.class
+com\sliit\mtit\microservice\locationservice\LocationServiceApplication.class

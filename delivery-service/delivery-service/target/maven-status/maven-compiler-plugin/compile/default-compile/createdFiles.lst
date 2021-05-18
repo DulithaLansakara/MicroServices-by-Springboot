@@ -1,0 +1,8 @@
+com\sliit\mtit\microservice\deliveryservice\SpringFoxConfig.class
+com\sliit\mtit\microservice\deliveryservice\dto\LocationCreationRequest.class
+com\sliit\mtit\microservice\deliveryservice\dto\DeliveryRequest.class
+com\sliit\mtit\microservice\deliveryservice\dto\DeliveryResponse.class
+com\sliit\mtit\microservice\deliveryservice\dto\LocationCreationResponse.class
+com\sliit\mtit\microservice\deliveryservice\service\DeliveryServiceImpl.class
+com\sliit\mtit\microservice\deliveryservice\controller\DeliveryController.class
+com\sliit\mtit\microservice\deliveryservice\DeliveryServiceApplication.class
