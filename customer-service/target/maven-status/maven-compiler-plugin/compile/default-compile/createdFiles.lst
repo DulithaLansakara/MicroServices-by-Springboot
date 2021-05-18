@@ -1,0 +1,5 @@
+com\sliit\mtit\microservice\customerservice\CustomerServiceApplication.class
+com\sliit\mtit\microservice\customerservice\dto\CustomerResponse.class
+com\sliit\mtit\microservice\customerservice\SwaggerConfig.class
+com\sliit\mtit\microservice\customerservice\controller\CustomerController.class
+com\sliit\mtit\microservice\customerservice\dto\CustomerRequest.class
